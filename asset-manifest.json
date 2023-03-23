@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.129a273f.chunk.css",
+    "main.js": "/static/js/main.e4cd03ac.chunk.js",
+    "main.js.map": "/static/js/main.e4cd03ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ce46af0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ce46af0.js.map",
+    "static/css/2.a66b5863.chunk.css": "/static/css/2.a66b5863.chunk.css",
+    "static/js/2.55c52961.chunk.js": "/static/js/2.55c52961.chunk.js",
+    "static/js/2.55c52961.chunk.js.map": "/static/js/2.55c52961.chunk.js.map",
+    "static/js/3.59f618b4.chunk.js": "/static/js/3.59f618b4.chunk.js",
+    "static/js/3.59f618b4.chunk.js.map": "/static/js/3.59f618b4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a66b5863.chunk.css.map": "/static/css/2.a66b5863.chunk.css.map",
+    "static/css/main.129a273f.chunk.css.map": "/static/css/main.129a273f.chunk.css.map",
+    "static/js/2.55c52961.chunk.js.LICENSE.txt": "/static/js/2.55c52961.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/static/media/Poppins-Medium.88233218.woff",
+    "static/media/RenoMono.8b239c68.otf": "/static/media/RenoMono.8b239c68.otf",
+    "static/media/index.less": "/static/media/index.2979fe4b.less",
+    "static/media/upheavtt.e3d365ba.ttf": "/static/media/upheavtt.e3d365ba.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce46af0.js",
+    "static/css/2.a66b5863.chunk.css",
+    "static/js/2.55c52961.chunk.js",
+    "static/css/main.129a273f.chunk.css",
+    "static/js/main.e4cd03ac.chunk.js"
+  ]
+}
