@@ -1,0 +1,12 @@
+:root {
+  --primary: rgb(0, 0, 0);
+  --primary-text: white;
+  --secondary: #ff1dec;
+  --secondary-text: white;
+  --accent: white;
+  --accent-text: white;
+}
+#faq {
+  background-color: #fb8500;
+}
+
